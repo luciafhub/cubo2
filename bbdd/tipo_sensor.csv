@@ -1,0 +1,11 @@
+id_tipo_sensor,nombre
+1,Temperatura
+2,Oxígeno
+3,Frecuencia Cardiaca
+4,Presión Sanguínea
+5,Electrocardiograma
+6,Glucosa
+7,Actividad Física
+8,Saturación de Oxígeno
+9,Temperatura Corporal
+10,Respiración

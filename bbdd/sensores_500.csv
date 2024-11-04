@@ -1,0 +1,501 @@
+fecha,MAC,id_centro,id_paciente,tipo,telegram,activo,bateria,nick,enfermeria,probandolo,visible
+2023-11-11 12:44:43.387230,MAC_12:55:C8:D1,4,21,Presión Sanguínea,1,0,35,Sensor_1,Urgencias,,1
+2024-01-26 12:44:43.387230,MAC_99:B5:5D:67,8,17,Temperatura,0,1,60,Sensor_2,Sala B,En pruebas,1
+2024-04-10 12:44:43.387230,MAC_B3:43:E7:09,4,91,Temperatura,1,1,23,Sensor_3,Urgencias,En pruebas,0
+2024-09-08 12:44:43.387230,MAC_4E:FF:7C:8A,10,12,Frecuencia Cardiaca,1,1,7,Sensor_4,Sala A,,1
+2024-05-21 12:44:43.387230,MAC_CA:36:44:E3,2,39,Temperatura,1,0,61,Sensor_5,Sala A,En pruebas,0
+2024-02-01 12:44:43.387230,MAC_8D:04:5B:B7,7,83,Presión Sanguínea,1,1,22,Sensor_6,Sala B,,0
+2024-09-15 12:44:43.387230,MAC_C5:FB:D7:85,6,12,Temperatura,1,0,79,Sensor_7,Urgencias,En pruebas,1
+2024-03-12 12:44:43.387230,MAC_0C:10:CF:58,8,84,Frecuencia Cardiaca,1,1,92,Sensor_8,Urgencias,,1
+2023-12-06 12:44:43.387230,MAC_8F:B3:2B:47,1,16,Temperatura,0,1,1,Sensor_9,Sala B,,0
+2023-10-30 12:44:43.387230,MAC_99:5C:43:94,2,30,Temperatura,1,1,91,Sensor_10,Sala A,,1
+2024-08-06 12:44:43.387230,MAC_A9:F9:77:18,5,92,Frecuencia Cardiaca,1,0,22,Sensor_11,Urgencias,,1
+2024-07-04 12:44:43.387230,MAC_A2:A7:71:EB,9,94,Frecuencia Cardiaca,1,0,5,Sensor_12,Sala A,En pruebas,0
+2024-03-30 12:44:43.387230,MAC_84:87:4C:3C,2,28,Frecuencia Cardiaca,0,1,40,Sensor_13,Sala C,,0
+2024-04-16 12:44:43.387230,MAC_33:78:E1:C0,6,19,Frecuencia Cardiaca,0,0,10,Sensor_14,Sala B,,1
+2024-10-16 12:44:43.387230,MAC_F8:EB:2D:B7,3,62,Oxígeno,0,1,28,Sensor_15,Sala C,,0
+2024-08-19 12:44:43.387230,MAC_49:F1:9E:37,5,14,Frecuencia Cardiaca,0,0,44,Sensor_16,Sala B,En pruebas,0
+2024-09-17 12:44:43.387230,MAC_81:2D:E9:09,7,21,Presión Sanguínea,1,0,0,Sensor_17,Sala C,En pruebas,1
+2024-09-08 12:44:43.387230,MAC_50:35:C5:51,9,61,Oxígeno,1,0,87,Sensor_18,Sala C,,1
+2024-08-23 12:44:43.387230,MAC_8D:BD:52:BF,7,3,Temperatura,0,1,55,Sensor_19,Sala C,,0
+2024-01-20 12:44:43.387230,MAC_3F:95:57:2C,8,21,Oxígeno,1,0,79,Sensor_20,Sala C,En pruebas,1
+2024-04-29 12:44:43.387230,MAC_19:47:58:D4,10,28,Frecuencia Cardiaca,0,1,76,Sensor_21,Sala A,,0
+2024-07-11 12:44:43.387230,MAC_60:F9:20:6A,3,14,Presión Sanguínea,1,0,38,Sensor_22,Sala B,,1
+2024-06-26 12:44:43.387230,MAC_5A:19:F5:2D,4,53,Frecuencia Cardiaca,0,0,87,Sensor_23,Sala C,En pruebas,0
+2023-11-23 12:44:43.387230,MAC_AE:37:64:B1,10,44,Presión Sanguínea,0,1,40,Sensor_24,Sala B,En pruebas,0
+2024-06-09 12:44:43.387230,MAC_26:E2:09:DD,4,73,Oxígeno,0,1,47,Sensor_25,Sala C,,1
+2024-07-18 12:44:43.387230,MAC_FB:6F:C0:B6,5,35,Oxígeno,1,1,45,Sensor_26,Sala B,En pruebas,0
+2024-10-27 12:44:43.387230,MAC_78:F4:CA:E6,9,91,Temperatura,0,0,35,Sensor_27,Urgencias,En pruebas,0
+2024-01-30 12:44:43.387230,MAC_20:05:F0:F4,6,62,Presión Sanguínea,1,0,29,Sensor_28,Sala B,En pruebas,0
+2024-02-18 12:44:43.387230,MAC_A3:FB:FD:7E,5,19,Frecuencia Cardiaca,0,0,18,Sensor_29,Sala C,En pruebas,0
+2024-07-07 12:44:43.387230,MAC_76:01:AD:D9,2,51,Frecuencia Cardiaca,0,1,32,Sensor_30,Sala A,En pruebas,1
+2024-06-27 12:44:43.387230,MAC_7B:E3:9D:52,8,42,Presión Sanguínea,0,1,58,Sensor_31,Sala B,,0
+2023-12-08 12:44:43.387230,MAC_44:CC:B3:3F,7,97,Temperatura,1,1,86,Sensor_32,Sala C,,0
+2023-11-15 12:44:43.387230,MAC_89:F9:87:B8,5,88,Oxígeno,1,0,40,Sensor_33,Sala C,En pruebas,1
+2024-01-05 12:44:43.387230,MAC_A8:4C:65:DC,3,24,Frecuencia Cardiaca,1,0,15,Sensor_34,Sala C,,1
+2024-02-01 12:44:43.387230,MAC_B8:88:3F:ED,6,45,Temperatura,1,0,65,Sensor_35,Urgencias,En pruebas,0
+2024-03-29 12:44:43.387230,MAC_82:70:1D:5F,4,12,Temperatura,0,0,10,Sensor_36,Sala B,En pruebas,1
+2024-02-17 12:44:43.387230,MAC_FB:D2:88:86,6,21,Temperatura,1,1,99,Sensor_37,Urgencias,En pruebas,0
+2023-12-10 12:44:43.387230,MAC_18:39:38:6B,2,7,Presión Sanguínea,1,1,56,Sensor_38,Urgencias,En pruebas,0
+2024-07-22 12:44:43.387230,MAC_66:9C:43:0C,7,53,Presión Sanguínea,1,1,73,Sensor_39,Urgencias,,0
+2023-12-05 12:44:43.387230,MAC_D2:97:58:8C,6,11,Oxígeno,0,1,19,Sensor_40,Sala C,,1
+2024-07-09 12:44:43.387230,MAC_10:F3:B4:A5,2,81,Presión Sanguínea,0,0,60,Sensor_41,Urgencias,En pruebas,0
+2024-08-01 12:44:43.387230,MAC_FA:17:AC:21,2,20,Temperatura,0,0,88,Sensor_42,Sala B,En pruebas,1
+2024-05-27 12:44:43.387230,MAC_3D:52:8F:A2,10,93,Oxígeno,1,0,53,Sensor_43,Urgencias,En pruebas,1
+2024-05-01 12:44:43.387230,MAC_9E:25:DF:43,9,38,Oxígeno,0,0,80,Sensor_44,Sala A,,0
+2023-11-24 12:44:43.387230,MAC_C6:36:08:BC,5,44,Temperatura,1,1,36,Sensor_45,Urgencias,En pruebas,0
+2024-04-02 12:44:43.387230,MAC_D7:69:62:91,9,15,Presión Sanguínea,1,0,2,Sensor_46,Sala B,,0
+2023-12-14 12:44:43.387230,MAC_08:74:4D:1C,5,63,Temperatura,0,1,29,Sensor_47,Urgencias,,1
+2024-01-21 12:44:43.387230,MAC_EC:F3:F0:0D,9,39,Temperatura,0,0,24,Sensor_48,Sala A,En pruebas,1
+2023-12-11 12:44:43.387230,MAC_3F:AB:E7:58,4,74,Temperatura,1,1,35,Sensor_49,Sala B,,1
+2024-02-04 12:44:43.387230,MAC_6B:41:50:E3,9,45,Oxígeno,1,0,40,Sensor_50,Sala A,En pruebas,1
+2024-01-23 12:44:43.387230,MAC_29:E9:03:5E,10,4,Frecuencia Cardiaca,1,0,45,Sensor_51,Sala C,En pruebas,0
+2023-12-31 12:44:43.387230,MAC_5C:53:2B:F3,3,99,Oxígeno,0,0,24,Sensor_52,Sala B,En pruebas,0
+2024-10-26 12:44:43.387230,MAC_3A:38:EC:0A,4,17,Oxígeno,1,0,72,Sensor_53,Sala C,En pruebas,0
+2024-03-21 12:44:43.387230,MAC_A0:E0:A3:C0,4,74,Presión Sanguínea,1,1,76,Sensor_54,Sala C,En pruebas,1
+2024-10-06 12:44:43.387230,MAC_7F:3F:A3:BF,10,48,Presión Sanguínea,0,1,97,Sensor_55,Sala C,En pruebas,0
+2024-01-18 12:44:43.387230,MAC_31:A5:75:A8,6,61,Oxígeno,0,0,55,Sensor_56,Sala B,En pruebas,0
+2024-10-13 12:44:43.387230,MAC_14:27:1F:80,10,10,Frecuencia Cardiaca,1,0,98,Sensor_57,Sala A,En pruebas,1
+2024-03-09 12:44:43.387230,MAC_C4:C2:D8:6C,6,17,Temperatura,0,1,29,Sensor_58,Sala A,,1
+2024-04-14 12:44:43.387230,MAC_4C:F5:63:81,7,16,Oxígeno,1,1,96,Sensor_59,Sala B,,0
+2024-02-11 12:44:43.387230,MAC_6B:B7:D2:D8,10,80,Temperatura,1,0,75,Sensor_60,Urgencias,,1
+2023-12-06 12:44:43.387230,MAC_C0:3D:FF:8F,1,83,Presión Sanguínea,0,0,71,Sensor_61,Sala C,En pruebas,0
+2024-06-25 12:44:43.387230,MAC_44:8D:B5:8E,4,55,Presión Sanguínea,1,0,89,Sensor_62,Sala C,,1
+2023-12-11 12:44:43.387230,MAC_FB:76:19:95,9,12,Temperatura,1,1,18,Sensor_63,Urgencias,En pruebas,0
+2024-04-18 12:44:43.387230,MAC_DE:B8:AA:BD,7,30,Frecuencia Cardiaca,1,1,74,Sensor_64,Urgencias,En pruebas,0
+2024-01-27 12:44:43.387230,MAC_FA:B3:23:3E,10,76,Oxígeno,1,0,8,Sensor_65,Sala C,En pruebas,0
+2023-11-01 12:44:43.387230,MAC_E5:C0:2D:18,1,9,Frecuencia Cardiaca,1,1,30,Sensor_66,Sala A,,0
+2024-07-21 12:44:43.387230,MAC_F9:B9:08:8C,8,25,Oxígeno,0,0,38,Sensor_67,Sala A,,0
+2023-11-17 12:44:43.387230,MAC_B3:71:21:80,10,73,Temperatura,0,0,6,Sensor_68,Sala A,En pruebas,0
+2024-08-06 12:44:43.387230,MAC_CC:B0:72:03,2,28,Frecuencia Cardiaca,0,1,20,Sensor_69,Sala C,,0
+2023-11-25 12:44:43.387230,MAC_96:32:09:A3,8,63,Presión Sanguínea,1,0,56,Sensor_70,Sala A,,0
+2024-07-14 12:44:43.387230,MAC_B0:94:49:52,10,90,Frecuencia Cardiaca,0,1,25,Sensor_71,Urgencias,,0
+2024-09-25 12:44:43.387230,MAC_A1:74:CB:07,4,63,Temperatura,1,1,41,Sensor_72,Sala B,En pruebas,0
+2023-12-26 12:44:43.387230,MAC_B5:76:63:A4,2,45,Presión Sanguínea,0,0,8,Sensor_73,Sala C,,0
+2023-12-23 12:44:43.387230,MAC_6C:BB:A8:43,9,37,Temperatura,1,0,23,Sensor_74,Sala B,En pruebas,0
+2023-12-18 12:44:43.387230,MAC_D7:81:42:F6,10,23,Frecuencia Cardiaca,0,0,10,Sensor_75,Urgencias,En pruebas,1
+2024-01-06 12:44:43.387230,MAC_51:39:DA:8B,1,2,Temperatura,0,1,19,Sensor_76,Urgencias,En pruebas,0
+2024-04-04 12:44:43.387230,MAC_C5:38:73:28,9,42,Temperatura,0,1,47,Sensor_77,Urgencias,,1
+2023-12-28 12:44:43.387230,MAC_14:CE:07:93,5,25,Presión Sanguínea,0,0,0,Sensor_78,Sala B,,0
+2024-05-26 12:44:43.387230,MAC_F9:8B:4E:22,3,57,Presión Sanguínea,1,1,81,Sensor_79,Sala C,En pruebas,1
+2024-09-17 12:44:43.387230,MAC_9E:17:57:87,10,45,Temperatura,1,0,3,Sensor_80,Sala B,,1
+2024-05-21 12:44:43.387230,MAC_4C:23:97:9A,4,35,Frecuencia Cardiaca,0,1,81,Sensor_81,Sala A,En pruebas,1
+2024-07-20 12:44:43.387230,MAC_DC:DC:D9:32,6,78,Oxígeno,1,1,67,Sensor_82,Urgencias,,0
+2024-02-23 12:44:43.387230,MAC_59:5E:34:37,7,18,Oxígeno,1,1,10,Sensor_83,Sala A,,1
+2024-01-23 12:44:43.387230,MAC_35:E6:46:44,9,30,Presión Sanguínea,1,1,63,Sensor_84,Sala A,En pruebas,0
+2024-06-02 12:44:43.387230,MAC_E0:C7:52:0D,7,10,Presión Sanguínea,0,1,36,Sensor_85,Sala A,En pruebas,0
+2024-03-21 12:44:43.387230,MAC_CD:88:D4:6C,2,12,Frecuencia Cardiaca,0,0,29,Sensor_86,Urgencias,En pruebas,0
+2024-08-24 12:44:43.387230,MAC_8E:D0:E5:61,10,1,Presión Sanguínea,1,1,0,Sensor_87,Sala B,En pruebas,0
+2023-12-28 12:44:43.387230,MAC_CB:8A:D3:D3,3,51,Temperatura,1,1,22,Sensor_88,Sala A,,1
+2023-11-10 12:44:43.387230,MAC_06:9D:ED:63,6,100,Frecuencia Cardiaca,0,0,38,Sensor_89,Sala B,,0
+2024-05-28 12:44:43.387230,MAC_6E:43:9B:21,4,80,Frecuencia Cardiaca,0,1,98,Sensor_90,Sala B,,1
+2024-09-23 12:44:43.387230,MAC_CB:E3:58:CF,1,9,Frecuencia Cardiaca,0,1,69,Sensor_91,Sala B,,1
+2024-08-30 12:44:43.387230,MAC_9A:AF:2E:B7,5,58,Presión Sanguínea,0,0,84,Sensor_92,Sala A,En pruebas,0
+2024-02-25 12:44:43.387230,MAC_3A:4C:08:28,2,100,Frecuencia Cardiaca,1,1,75,Sensor_93,Sala C,En pruebas,0
+2024-02-13 12:44:43.387230,MAC_15:8A:32:62,7,20,Oxígeno,0,0,59,Sensor_94,Sala A,,0
+2024-04-10 12:44:43.387230,MAC_5A:33:39:76,7,13,Frecuencia Cardiaca,1,1,98,Sensor_95,Sala B,En pruebas,0
+2024-05-24 12:44:43.387230,MAC_AB:EA:0F:13,10,57,Frecuencia Cardiaca,1,1,70,Sensor_96,Sala B,,1
+2023-12-14 12:44:43.387230,MAC_89:59:C1:8C,5,38,Temperatura,1,0,45,Sensor_97,Sala C,En pruebas,1
+2023-11-18 12:44:43.387230,MAC_3E:B8:39:1A,6,58,Oxígeno,0,0,82,Sensor_98,Urgencias,,1
+2024-06-27 12:44:43.387230,MAC_41:8B:85:A2,6,48,Frecuencia Cardiaca,0,0,17,Sensor_99,Sala A,En pruebas,0
+2023-11-18 12:44:43.387230,MAC_82:8B:5B:60,1,68,Oxígeno,1,1,9,Sensor_100,Urgencias,En pruebas,0
+2024-06-27 12:44:43.387230,MAC_41:4A:13:AB,1,68,Temperatura,1,0,26,Sensor_101,Sala B,,0
+2024-10-04 12:44:43.387230,MAC_00:E6:F4:56,2,95,Oxígeno,1,1,71,Sensor_102,Sala B,,1
+2024-07-28 12:44:43.387230,MAC_EC:DA:A5:E8,4,45,Temperatura,1,1,90,Sensor_103,Urgencias,,1
+2024-08-18 12:44:43.387230,MAC_5B:04:20:23,7,48,Temperatura,1,0,22,Sensor_104,Sala C,,1
+2024-04-01 12:44:43.387230,MAC_49:6C:BD:A9,5,34,Oxígeno,0,1,9,Sensor_105,Sala C,,1
+2024-01-17 12:44:43.387230,MAC_29:A6:41:CE,8,82,Oxígeno,0,1,39,Sensor_106,Urgencias,,0
+2024-02-12 12:44:43.387230,MAC_CC:8E:0B:94,8,58,Frecuencia Cardiaca,0,0,8,Sensor_107,Urgencias,En pruebas,1
+2024-04-30 12:44:43.387230,MAC_57:7A:A3:3A,10,24,Temperatura,0,1,13,Sensor_108,Sala C,En pruebas,0
+2024-08-11 12:44:43.387230,MAC_39:DD:EF:23,4,4,Frecuencia Cardiaca,0,1,52,Sensor_109,Urgencias,,1
+2024-05-30 12:44:43.387230,MAC_BE:EF:FF:15,4,97,Temperatura,0,0,5,Sensor_110,Sala A,En pruebas,0
+2024-05-20 12:44:43.387230,MAC_6A:2F:BC:14,1,88,Oxígeno,0,1,90,Sensor_111,Urgencias,,1
+2024-08-28 12:44:43.387230,MAC_A8:45:58:6B,6,1,Temperatura,0,0,38,Sensor_112,Sala A,,0
+2024-06-24 12:44:43.387230,MAC_7D:1A:68:4B,9,17,Presión Sanguínea,0,1,83,Sensor_113,Sala A,En pruebas,0
+2024-04-20 12:44:43.387230,MAC_1A:DA:CF:73,8,76,Frecuencia Cardiaca,1,0,58,Sensor_114,Sala A,En pruebas,1
+2024-04-27 12:44:43.387230,MAC_6C:76:6D:32,1,8,Oxígeno,0,1,91,Sensor_115,Sala B,En pruebas,1
+2024-05-11 12:44:43.387230,MAC_77:9B:3E:8D,5,14,Presión Sanguínea,1,0,98,Sensor_116,Sala C,En pruebas,1
+2024-01-29 12:44:43.387230,MAC_B5:D5:2B:C1,7,66,Temperatura,1,0,5,Sensor_117,Sala C,En pruebas,0
+2024-06-14 12:44:43.387230,MAC_9A:87:F3:3C,8,37,Frecuencia Cardiaca,1,0,22,Sensor_118,Urgencias,,0
+2024-07-02 12:44:43.387230,MAC_BA:88:C4:43,8,97,Presión Sanguínea,0,1,47,Sensor_119,Sala C,En pruebas,1
+2024-09-11 12:44:43.387230,MAC_67:FB:B5:96,5,100,Presión Sanguínea,1,1,49,Sensor_120,Sala B,,0
+2024-01-17 12:44:43.387230,MAC_7D:84:DC:2E,9,20,Temperatura,0,0,79,Sensor_121,Urgencias,,0
+2024-09-27 12:44:43.387230,MAC_7B:FE:46:35,3,62,Oxígeno,1,0,75,Sensor_122,Urgencias,En pruebas,1
+2024-01-03 12:44:43.387230,MAC_F2:8D:F0:C2,5,75,Temperatura,1,0,5,Sensor_123,Urgencias,En pruebas,1
+2024-03-01 12:44:43.387230,MAC_69:C1:01:53,8,57,Presión Sanguínea,1,0,86,Sensor_124,Sala B,En pruebas,0
+2024-07-21 12:44:43.387230,MAC_29:54:9F:36,4,86,Frecuencia Cardiaca,1,1,26,Sensor_125,Sala A,En pruebas,0
+2024-08-06 12:44:43.387230,MAC_4B:8B:C5:10,5,45,Frecuencia Cardiaca,0,1,88,Sensor_126,Sala B,,0
+2024-10-10 12:44:43.387230,MAC_73:C4:DA:1D,10,25,Oxígeno,0,1,56,Sensor_127,Urgencias,,1
+2024-05-26 12:44:43.387230,MAC_A3:86:4B:96,1,48,Frecuencia Cardiaca,1,0,90,Sensor_128,Urgencias,En pruebas,1
+2024-04-14 12:44:43.387230,MAC_0A:82:2E:CD,1,67,Presión Sanguínea,0,0,38,Sensor_129,Sala C,,0
+2024-05-04 12:44:43.387230,MAC_43:21:5C:26,3,54,Oxígeno,1,1,75,Sensor_130,Urgencias,En pruebas,0
+2024-10-13 12:44:43.387230,MAC_3E:BD:7E:6E,4,21,Presión Sanguínea,1,0,15,Sensor_131,Urgencias,En pruebas,0
+2024-03-17 12:44:43.387230,MAC_65:B8:EC:7C,10,57,Presión Sanguínea,0,0,41,Sensor_132,Sala C,En pruebas,1
+2024-03-17 12:44:43.387230,MAC_7C:FB:F0:F6,10,17,Frecuencia Cardiaca,1,0,67,Sensor_133,Sala A,,1
+2024-02-09 12:44:43.387230,MAC_01:AD:EF:23,7,14,Presión Sanguínea,1,1,57,Sensor_134,Sala C,,0
+2023-11-02 12:44:43.387230,MAC_36:18:4C:9C,9,41,Frecuencia Cardiaca,1,0,27,Sensor_135,Sala A,,0
+2024-05-02 12:44:43.387230,MAC_5A:60:1F:AF,6,28,Presión Sanguínea,1,1,99,Sensor_136,Sala A,En pruebas,1
+2024-04-09 12:44:43.387230,MAC_7B:74:46:1E,7,71,Frecuencia Cardiaca,1,0,32,Sensor_137,Sala C,En pruebas,0
+2024-08-20 12:44:43.387230,MAC_2E:5C:FB:82,2,93,Presión Sanguínea,0,1,62,Sensor_138,Sala A,En pruebas,1
+2023-12-27 12:44:43.387230,MAC_D6:45:B9:15,8,58,Frecuencia Cardiaca,1,1,100,Sensor_139,Sala A,,0
+2024-07-08 12:44:43.387230,MAC_8D:60:49:B0,1,19,Temperatura,1,1,23,Sensor_140,Urgencias,,1
+2024-07-19 12:44:43.387230,MAC_59:D5:DA:88,8,57,Frecuencia Cardiaca,0,0,3,Sensor_141,Sala B,,0
+2023-12-02 12:44:43.387230,MAC_C0:BD:E2:08,10,85,Presión Sanguínea,0,0,29,Sensor_142,Urgencias,,0
+2024-02-22 12:44:43.387230,MAC_90:E9:E3:60,7,56,Presión Sanguínea,1,1,65,Sensor_143,Sala A,,1
+2023-11-18 12:44:43.387230,MAC_0E:18:03:BF,8,11,Temperatura,0,1,16,Sensor_144,Sala B,En pruebas,1
+2024-01-27 12:44:43.387230,MAC_02:75:66:6B,8,94,Oxígeno,1,1,12,Sensor_145,Sala C,,0
+2024-08-06 12:44:43.387230,MAC_CB:4E:1B:90,2,63,Temperatura,1,0,92,Sensor_146,Sala A,,1
+2023-11-25 12:44:43.387230,MAC_48:F1:B1:A6,3,3,Oxígeno,1,1,6,Sensor_147,Sala A,,1
+2024-09-07 12:44:43.387230,MAC_4C:21:7D:79,2,34,Frecuencia Cardiaca,0,1,84,Sensor_148,Sala C,,0
+2024-02-01 12:44:43.387230,MAC_85:85:01:50,3,93,Oxígeno,0,0,95,Sensor_149,Sala A,En pruebas,0
+2024-06-29 12:44:43.387230,MAC_BB:C7:6E:07,5,38,Oxígeno,0,1,15,Sensor_150,Sala A,,1
+2024-04-04 12:44:43.387230,MAC_A3:0D:A2:25,9,37,Oxígeno,0,0,28,Sensor_151,Urgencias,,1
+2024-07-24 12:44:43.387230,MAC_CA:5B:B1:8C,1,83,Presión Sanguínea,1,1,52,Sensor_152,Sala B,,1
+2024-02-08 12:44:43.387230,MAC_3D:4C:53:35,5,97,Presión Sanguínea,1,0,19,Sensor_153,Sala B,,0
+2024-03-31 12:44:43.387230,MAC_FF:6F:13:E0,5,89,Temperatura,0,1,42,Sensor_154,Sala C,En pruebas,1
+2024-05-26 12:44:43.387230,MAC_C5:85:DC:D9,7,55,Oxígeno,0,1,14,Sensor_155,Sala C,En pruebas,1
+2024-08-11 12:44:43.387230,MAC_2D:49:79:04,9,77,Frecuencia Cardiaca,1,0,94,Sensor_156,Sala A,,1
+2024-04-20 12:44:43.387230,MAC_38:92:A0:5D,7,46,Presión Sanguínea,0,1,58,Sensor_157,Sala C,,0
+2024-08-01 12:44:43.387230,MAC_1D:BA:B0:C3,4,92,Presión Sanguínea,1,1,21,Sensor_158,Sala B,En pruebas,0
+2024-02-18 12:44:43.387230,MAC_C6:33:3F:AA,10,26,Oxígeno,1,0,43,Sensor_159,Sala C,,1
+2024-01-19 12:44:43.387230,MAC_3F:71:F0:7F,6,4,Oxígeno,0,1,31,Sensor_160,Sala B,En pruebas,0
+2024-02-09 12:44:43.387230,MAC_2E:0D:2A:DF,5,43,Oxígeno,1,0,79,Sensor_161,Urgencias,,0
+2024-03-23 12:44:43.387230,MAC_43:EC:88:B7,5,84,Frecuencia Cardiaca,1,1,68,Sensor_162,Sala B,En pruebas,1
+2024-07-13 12:44:43.387230,MAC_62:28:62:58,4,71,Frecuencia Cardiaca,0,0,38,Sensor_163,Sala C,En pruebas,1
+2024-04-26 12:44:43.387230,MAC_81:DD:0E:58,8,31,Oxígeno,1,0,42,Sensor_164,Urgencias,En pruebas,1
+2023-12-09 12:44:43.387230,MAC_31:6E:D0:9F,9,48,Frecuencia Cardiaca,1,0,2,Sensor_165,Sala B,,0
+2024-10-02 12:44:43.387230,MAC_FF:41:E4:83,2,54,Frecuencia Cardiaca,1,1,34,Sensor_166,Sala B,,1
+2024-01-25 12:44:43.387230,MAC_34:34:2F:99,3,97,Presión Sanguínea,0,1,22,Sensor_167,Sala C,En pruebas,0
+2024-09-23 12:44:43.387230,MAC_B1:D7:12:70,1,39,Frecuencia Cardiaca,1,1,84,Sensor_168,Sala A,En pruebas,0
+2024-05-27 12:44:43.387230,MAC_4F:04:AD:6A,4,75,Presión Sanguínea,1,1,76,Sensor_169,Sala C,,1
+2024-05-11 12:44:43.387230,MAC_92:6F:12:7F,2,67,Oxígeno,0,0,5,Sensor_170,Sala C,,1
+2024-07-04 12:44:43.387230,MAC_CF:EA:F7:A0,3,24,Temperatura,1,0,39,Sensor_171,Sala B,En pruebas,1
+2024-10-07 12:44:43.387230,MAC_67:62:CF:5E,3,75,Presión Sanguínea,0,0,1,Sensor_172,Sala B,En pruebas,1
+2024-02-17 12:44:43.387230,MAC_CE:29:DE:DB,7,35,Presión Sanguínea,1,0,9,Sensor_173,Sala B,,1
+2024-06-13 12:44:43.387230,MAC_3D:F5:5B:AE,9,31,Presión Sanguínea,0,1,87,Sensor_174,Sala B,,1
+2023-11-09 12:44:43.387230,MAC_56:BB:73:34,8,60,Frecuencia Cardiaca,1,0,46,Sensor_175,Sala C,,1
+2024-01-20 12:44:43.387230,MAC_06:15:0C:20,5,37,Presión Sanguínea,0,1,47,Sensor_176,Sala A,En pruebas,0
+2024-02-06 12:44:43.387230,MAC_5C:D7:59:37,2,16,Oxígeno,1,1,38,Sensor_177,Sala B,En pruebas,1
+2024-01-08 12:44:43.387230,MAC_2A:A9:8B:81,9,24,Oxígeno,1,1,68,Sensor_178,Sala A,En pruebas,0
+2024-06-16 12:44:43.387230,MAC_69:E9:C9:6B,1,80,Oxígeno,1,1,97,Sensor_179,Sala C,,0
+2024-10-12 12:44:43.387230,MAC_32:79:4C:B9,7,29,Temperatura,1,0,0,Sensor_180,Sala B,,1
+2023-11-18 12:44:43.387230,MAC_BA:A2:0F:5C,7,81,Presión Sanguínea,1,0,92,Sensor_181,Sala A,En pruebas,0
+2024-04-09 12:44:43.387230,MAC_97:22:D9:68,7,23,Oxígeno,0,1,30,Sensor_182,Sala B,En pruebas,0
+2024-08-06 12:44:43.387230,MAC_A6:46:78:D8,5,66,Presión Sanguínea,0,1,2,Sensor_183,Sala A,,0
+2024-02-05 12:44:43.387230,MAC_5F:FD:9C:87,2,60,Frecuencia Cardiaca,0,1,13,Sensor_184,Sala C,En pruebas,0
+2024-05-28 12:44:43.387230,MAC_27:43:FC:CA,1,85,Presión Sanguínea,1,1,45,Sensor_185,Urgencias,En pruebas,1
+2024-10-20 12:44:43.387230,MAC_DD:5D:82:0E,2,81,Temperatura,0,1,80,Sensor_186,Sala B,En pruebas,1
+2024-06-14 12:44:43.387230,MAC_10:2D:CF:DF,4,8,Presión Sanguínea,0,0,7,Sensor_187,Urgencias,En pruebas,0
+2024-04-27 12:44:43.387230,MAC_59:B7:54:DC,9,58,Frecuencia Cardiaca,1,1,16,Sensor_188,Sala A,En pruebas,0
+2024-04-12 12:44:43.387230,MAC_E3:8A:E5:82,1,83,Frecuencia Cardiaca,1,1,52,Sensor_189,Sala A,En pruebas,1
+2023-11-15 12:44:43.387230,MAC_45:19:99:7E,4,59,Presión Sanguínea,1,0,33,Sensor_190,Urgencias,En pruebas,1
+2024-07-15 12:44:43.387230,MAC_3E:DC:B1:3B,5,63,Frecuencia Cardiaca,0,0,96,Sensor_191,Sala C,,1
+2024-08-05 12:44:43.387230,MAC_11:76:7E:1E,5,5,Frecuencia Cardiaca,0,0,95,Sensor_192,Sala A,,0
+2024-07-09 12:44:43.387230,MAC_E4:91:55:58,6,92,Oxígeno,0,1,67,Sensor_193,Sala B,,1
+2024-03-31 12:44:43.387230,MAC_AC:12:03:40,5,32,Temperatura,0,0,14,Sensor_194,Sala B,En pruebas,1
+2024-03-04 12:44:43.387230,MAC_1C:74:B7:59,10,19,Presión Sanguínea,1,0,33,Sensor_195,Sala B,,0
+2024-09-28 12:44:43.387230,MAC_9D:9A:1C:63,7,16,Presión Sanguínea,1,1,30,Sensor_196,Urgencias,,1
+2024-08-21 12:44:43.387230,MAC_EF:05:A5:7C,2,98,Frecuencia Cardiaca,0,1,86,Sensor_197,Sala B,En pruebas,1
+2024-01-23 12:44:43.387230,MAC_4E:81:69:9B,6,74,Presión Sanguínea,0,0,36,Sensor_198,Sala B,,0
+2023-10-30 12:44:43.387230,MAC_E5:28:C7:CD,1,26,Oxígeno,0,0,15,Sensor_199,Sala C,,0
+2024-08-05 12:44:43.387230,MAC_F1:E1:AC:6A,7,66,Temperatura,0,1,31,Sensor_200,Urgencias,,1
+2024-10-01 12:44:43.387230,MAC_CF:38:4F:E9,9,17,Temperatura,1,1,66,Sensor_201,Sala A,En pruebas,1
+2024-01-05 12:44:43.387230,MAC_49:7B:CE:92,7,1,Temperatura,0,0,9,Sensor_202,Sala C,En pruebas,1
+2024-08-05 12:44:43.387230,MAC_C2:7A:04:6F,7,86,Oxígeno,0,0,55,Sensor_203,Sala A,,0
+2024-03-23 12:44:43.387230,MAC_E6:2A:30:B2,3,97,Frecuencia Cardiaca,1,1,41,Sensor_204,Sala B,En pruebas,0
+2024-09-29 12:44:43.387230,MAC_DE:E4:26:DF,5,68,Frecuencia Cardiaca,0,0,31,Sensor_205,Sala A,,0
+2024-02-06 12:44:43.387230,MAC_1D:8E:A5:36,2,33,Presión Sanguínea,1,0,9,Sensor_206,Urgencias,En pruebas,0
+2023-12-21 12:44:43.387230,MAC_42:14:24:F5,2,9,Temperatura,1,1,80,Sensor_207,Urgencias,En pruebas,1
+2024-04-24 12:44:43.387230,MAC_6A:A3:34:2B,7,15,Presión Sanguínea,0,0,49,Sensor_208,Urgencias,En pruebas,1
+2024-08-20 12:44:43.387230,MAC_99:61:65:30,9,18,Frecuencia Cardiaca,1,1,7,Sensor_209,Sala A,En pruebas,1
+2023-11-30 12:44:43.387230,MAC_70:C8:65:DD,7,14,Temperatura,1,1,86,Sensor_210,Sala C,,0
+2024-03-08 12:44:43.387230,MAC_43:C7:E8:04,10,62,Temperatura,0,1,61,Sensor_211,Sala B,,1
+2024-04-28 12:44:43.387230,MAC_84:A7:E6:CC,5,36,Oxígeno,0,1,4,Sensor_212,Sala A,,0
+2024-09-03 12:44:43.387230,MAC_AD:1A:D9:9B,8,10,Temperatura,1,0,55,Sensor_213,Sala A,En pruebas,1
+2023-12-17 12:44:43.387230,MAC_DF:7C:8E:58,5,16,Presión Sanguínea,0,1,20,Sensor_214,Sala A,,1
+2023-11-25 12:44:43.387230,MAC_67:56:A1:13,6,9,Frecuencia Cardiaca,0,1,34,Sensor_215,Urgencias,En pruebas,0
+2023-12-06 12:44:43.387230,MAC_61:00:65:5B,6,42,Oxígeno,0,1,77,Sensor_216,Sala A,En pruebas,1
+2024-01-11 12:44:43.387230,MAC_63:FB:03:C8,2,20,Presión Sanguínea,0,0,50,Sensor_217,Sala C,,1
+2024-04-21 12:44:43.387230,MAC_28:F5:9A:27,2,12,Presión Sanguínea,0,0,53,Sensor_218,Sala B,En pruebas,1
+2024-03-15 12:44:43.387230,MAC_8E:BB:1F:21,6,87,Presión Sanguínea,1,1,82,Sensor_219,Sala C,En pruebas,1
+2024-03-25 12:44:43.387230,MAC_6B:89:CF:28,2,64,Temperatura,0,1,37,Sensor_220,Urgencias,,1
+2023-12-18 12:44:43.387230,MAC_75:7A:98:2A,1,76,Presión Sanguínea,0,1,60,Sensor_221,Sala B,En pruebas,0
+2023-11-26 12:44:43.387230,MAC_16:BA:A1:6C,7,65,Temperatura,1,0,33,Sensor_222,Sala C,En pruebas,0
+2024-01-20 12:44:43.387230,MAC_0E:E2:5C:35,6,12,Frecuencia Cardiaca,1,0,7,Sensor_223,Sala A,En pruebas,0
+2023-11-07 12:44:43.387230,MAC_A5:E8:CD:85,10,26,Temperatura,0,0,1,Sensor_224,Sala B,En pruebas,0
+2024-05-05 12:44:43.387230,MAC_DE:D7:03:66,10,29,Frecuencia Cardiaca,1,0,77,Sensor_225,Urgencias,,1
+2024-03-30 12:44:43.387230,MAC_E7:8B:B0:2F,5,91,Presión Sanguínea,0,0,2,Sensor_226,Sala C,,0
+2024-10-20 12:44:43.387230,MAC_0D:FB:7D:EF,3,14,Frecuencia Cardiaca,1,1,19,Sensor_227,Sala A,,1
+2024-05-16 12:44:43.387230,MAC_7A:F1:78:3F,7,86,Temperatura,1,0,50,Sensor_228,Sala A,En pruebas,0
+2024-07-10 12:44:43.387230,MAC_B4:DE:77:D6,10,5,Temperatura,1,0,33,Sensor_229,Sala C,En pruebas,0
+2024-10-20 12:44:43.387230,MAC_6C:42:8A:5D,4,81,Presión Sanguínea,0,1,26,Sensor_230,Sala A,En pruebas,1
+2024-04-26 12:44:43.387230,MAC_48:98:D2:83,9,3,Oxígeno,1,1,56,Sensor_231,Sala A,,0
+2023-11-18 12:44:43.387230,MAC_BC:56:1D:04,10,42,Oxígeno,0,0,68,Sensor_232,Sala C,En pruebas,1
+2023-12-03 12:44:43.387230,MAC_9F:B7:C1:EC,7,29,Presión Sanguínea,0,1,56,Sensor_233,Sala C,En pruebas,1
+2024-02-06 12:44:43.387230,MAC_01:F4:3F:34,8,47,Presión Sanguínea,0,1,50,Sensor_234,Urgencias,,1
+2024-04-29 12:44:43.387230,MAC_E2:E2:08:32,9,75,Frecuencia Cardiaca,0,1,21,Sensor_235,Sala A,,0
+2024-03-11 12:44:43.387230,MAC_0C:E5:9B:36,5,24,Oxígeno,0,0,45,Sensor_236,Sala A,En pruebas,0
+2024-08-27 12:44:43.387230,MAC_41:03:6C:66,2,72,Temperatura,1,1,30,Sensor_237,Urgencias,En pruebas,1
+2024-06-22 12:44:43.387230,MAC_18:E5:B1:C4,3,1,Temperatura,0,0,88,Sensor_238,Sala C,En pruebas,0
+2024-02-16 12:44:43.387230,MAC_DB:E9:E5:44,6,85,Oxígeno,1,1,82,Sensor_239,Sala C,En pruebas,0
+2024-07-08 12:44:43.387230,MAC_75:70:13:8B,10,5,Frecuencia Cardiaca,1,0,57,Sensor_240,Sala A,En pruebas,0
+2024-03-30 12:44:43.387230,MAC_9D:84:31:F1,2,44,Temperatura,1,1,51,Sensor_241,Sala A,En pruebas,1
+2024-05-05 12:44:43.387230,MAC_FE:C5:90:5B,9,57,Frecuencia Cardiaca,1,1,80,Sensor_242,Sala B,En pruebas,0
+2024-10-13 12:44:43.387230,MAC_64:D6:91:DE,5,16,Frecuencia Cardiaca,1,1,53,Sensor_243,Sala C,,0
+2024-01-31 12:44:43.387230,MAC_15:A2:65:59,3,91,Oxígeno,1,1,79,Sensor_244,Sala B,En pruebas,1
+2024-01-22 12:44:43.387230,MAC_2A:80:A8:83,6,17,Presión Sanguínea,1,1,92,Sensor_245,Sala C,En pruebas,1
+2024-09-01 12:44:43.387230,MAC_E9:18:06:E2,4,9,Frecuencia Cardiaca,1,1,59,Sensor_246,Sala B,En pruebas,0
+2024-04-29 12:44:43.387230,MAC_9F:99:E7:FD,8,31,Oxígeno,1,0,12,Sensor_247,Sala B,,1
+2024-01-19 12:44:43.387230,MAC_38:C2:35:B4,2,18,Frecuencia Cardiaca,0,1,97,Sensor_248,Sala C,En pruebas,0
+2024-08-04 12:44:43.387230,MAC_8B:C7:4F:8A,8,6,Oxígeno,0,1,53,Sensor_249,Sala C,En pruebas,0
+2024-07-14 12:44:43.387230,MAC_4C:A6:CE:D9,5,38,Oxígeno,0,0,33,Sensor_250,Sala A,En pruebas,1
+2023-12-09 12:44:43.387230,MAC_DE:FF:3A:21,4,40,Temperatura,1,0,57,Sensor_251,Sala C,En pruebas,1
+2024-05-29 12:44:43.387230,MAC_FF:12:33:38,7,1,Temperatura,1,1,1,Sensor_252,Sala A,,0
+2024-09-30 12:44:43.387230,MAC_46:53:D2:8D,7,32,Temperatura,0,0,9,Sensor_253,Urgencias,,1
+2024-06-27 12:44:43.387230,MAC_20:72:E1:DF,8,53,Frecuencia Cardiaca,1,0,83,Sensor_254,Sala C,,1
+2023-11-19 12:44:43.387230,MAC_A1:6C:C1:F0,7,80,Temperatura,0,0,91,Sensor_255,Sala C,,0
+2024-03-29 12:44:43.387230,MAC_10:14:51:FC,10,36,Temperatura,0,0,34,Sensor_256,Sala C,,1
+2024-01-29 12:44:43.387230,MAC_71:97:92:43,5,3,Temperatura,1,0,73,Sensor_257,Sala C,,1
+2024-08-26 12:44:43.387230,MAC_C8:54:63:E1,8,74,Presión Sanguínea,1,1,40,Sensor_258,Sala C,,0
+2024-03-28 12:44:43.387230,MAC_7C:26:62:27,10,56,Oxígeno,0,1,96,Sensor_259,Sala B,En pruebas,0
+2024-05-11 12:44:43.387230,MAC_FA:22:21:C5,2,46,Temperatura,0,1,43,Sensor_260,Sala A,En pruebas,1
+2024-07-15 12:44:43.387230,MAC_7E:1F:B1:BD,7,54,Temperatura,0,1,58,Sensor_261,Urgencias,En pruebas,1
+2024-10-06 12:44:43.387230,MAC_57:D3:D5:82,1,80,Oxígeno,1,0,22,Sensor_262,Sala A,En pruebas,0
+2024-07-12 12:44:43.387230,MAC_3B:FC:88:86,8,71,Oxígeno,0,1,66,Sensor_263,Sala C,,1
+2023-11-03 12:44:43.387230,MAC_76:74:D7:87,5,19,Oxígeno,1,0,41,Sensor_264,Sala B,En pruebas,0
+2024-09-23 12:44:43.387230,MAC_C3:73:10:3B,4,97,Oxígeno,1,0,97,Sensor_265,Urgencias,,1
+2024-10-15 12:44:43.387230,MAC_F7:44:F6:C1,2,39,Temperatura,1,0,28,Sensor_266,Sala B,,0
+2024-01-13 12:44:43.387230,MAC_69:E7:8B:33,4,94,Presión Sanguínea,0,1,17,Sensor_267,Sala B,En pruebas,1
+2024-03-20 12:44:43.387230,MAC_4F:29:67:A6,3,18,Frecuencia Cardiaca,0,1,70,Sensor_268,Sala B,,1
+2024-04-11 12:44:43.387230,MAC_09:9F:84:09,4,35,Presión Sanguínea,1,0,83,Sensor_269,Sala C,En pruebas,1
+2024-07-23 12:44:43.387230,MAC_9C:9A:F0:EC,10,94,Oxígeno,1,0,37,Sensor_270,Sala B,En pruebas,0
+2024-08-20 12:44:43.387230,MAC_B3:26:30:91,4,80,Temperatura,1,1,43,Sensor_271,Sala A,,0
+2024-10-19 12:44:43.387230,MAC_FB:BF:0B:FD,1,22,Frecuencia Cardiaca,0,1,14,Sensor_272,Urgencias,,1
+2024-05-29 12:44:43.387230,MAC_DD:63:C7:41,8,22,Presión Sanguínea,1,1,22,Sensor_273,Sala B,,0
+2024-08-07 12:44:43.387230,MAC_8A:8A:06:81,6,68,Frecuencia Cardiaca,1,0,88,Sensor_274,Sala A,En pruebas,0
+2024-09-11 12:44:43.387230,MAC_60:3D:5A:5E,1,61,Temperatura,1,1,24,Sensor_275,Sala B,En pruebas,1
+2024-10-03 12:44:43.387230,MAC_9E:52:58:79,4,12,Oxígeno,0,1,56,Sensor_276,Urgencias,En pruebas,1
+2024-07-25 12:44:43.387230,MAC_BA:FC:14:94,7,59,Oxígeno,0,0,33,Sensor_277,Urgencias,En pruebas,0
+2024-04-20 12:44:43.387230,MAC_AD:D8:70:6D,10,29,Temperatura,0,0,55,Sensor_278,Sala A,En pruebas,1
+2024-07-07 12:44:43.387230,MAC_1D:6B:96:C2,7,60,Frecuencia Cardiaca,1,0,65,Sensor_279,Sala A,En pruebas,0
+2024-02-16 12:44:43.387230,MAC_40:40:39:2E,5,10,Presión Sanguínea,1,0,45,Sensor_280,Sala B,,1
+2024-10-05 12:44:43.387230,MAC_45:56:09:69,5,12,Presión Sanguínea,0,0,78,Sensor_281,Sala A,En pruebas,0
+2024-05-28 12:44:43.387230,MAC_D3:43:93:E6,5,60,Oxígeno,0,0,56,Sensor_282,Sala B,,0
+2023-11-15 12:44:43.387230,MAC_29:E0:31:07,8,30,Frecuencia Cardiaca,0,0,29,Sensor_283,Sala C,En pruebas,0
+2024-10-02 12:44:43.387230,MAC_2D:96:CC:AB,3,1,Temperatura,1,1,24,Sensor_284,Urgencias,,1
+2024-02-14 12:44:43.387230,MAC_1B:97:79:85,10,66,Frecuencia Cardiaca,1,1,27,Sensor_285,Sala B,En pruebas,1
+2023-11-27 12:44:43.387230,MAC_E0:BE:1A:16,6,82,Presión Sanguínea,1,1,94,Sensor_286,Sala C,,0
+2024-09-23 12:44:43.387230,MAC_E0:0B:23:94,10,9,Frecuencia Cardiaca,0,0,74,Sensor_287,Sala C,En pruebas,1
+2024-06-05 12:44:43.387230,MAC_27:3F:96:B5,7,87,Oxígeno,0,0,34,Sensor_288,Urgencias,,1
+2024-05-07 12:44:43.387230,MAC_50:06:21:3F,1,44,Oxígeno,1,0,66,Sensor_289,Sala B,,0
+2024-06-12 12:44:43.387230,MAC_7A:03:50:2F,2,63,Frecuencia Cardiaca,0,1,10,Sensor_290,Sala A,En pruebas,1
+2024-06-23 12:44:43.387230,MAC_55:BA:0E:38,9,100,Temperatura,1,1,32,Sensor_291,Sala A,,1
+2024-01-19 12:44:43.387230,MAC_5A:68:D8:E2,4,68,Presión Sanguínea,0,1,68,Sensor_292,Sala A,,0
+2024-09-03 12:44:43.387230,MAC_60:AA:CF:E2,1,10,Oxígeno,0,0,97,Sensor_293,Sala C,,1
+2024-01-29 12:44:43.387230,MAC_69:A9:F3:42,1,4,Presión Sanguínea,1,1,91,Sensor_294,Sala A,En pruebas,1
+2024-07-06 12:44:43.387230,MAC_E0:61:2E:4F,1,41,Temperatura,0,0,7,Sensor_295,Sala A,,1
+2024-08-10 12:44:43.387230,MAC_58:53:65:36,5,4,Frecuencia Cardiaca,1,1,47,Sensor_296,Sala A,En pruebas,1
+2024-03-22 12:44:43.387230,MAC_4A:0D:23:B2,3,45,Frecuencia Cardiaca,0,1,28,Sensor_297,Urgencias,En pruebas,0
+2024-01-29 12:44:43.387230,MAC_42:99:82:4D,10,24,Temperatura,0,0,35,Sensor_298,Sala B,En pruebas,1
+2024-05-09 12:44:43.387230,MAC_ED:71:F5:CB,2,98,Oxígeno,1,0,3,Sensor_299,Urgencias,En pruebas,1
+2023-12-20 12:44:43.387230,MAC_F6:17:46:20,3,41,Presión Sanguínea,0,0,78,Sensor_300,Urgencias,,1
+2024-06-12 12:44:43.387230,MAC_89:21:DC:F9,1,46,Oxígeno,0,1,3,Sensor_301,Sala A,En pruebas,1
+2024-06-04 12:44:43.387230,MAC_5F:4B:97:65,10,42,Presión Sanguínea,1,0,17,Sensor_302,Sala A,,0
+2023-12-21 12:44:43.387230,MAC_D2:CC:0D:47,10,72,Presión Sanguínea,0,0,12,Sensor_303,Sala A,En pruebas,1
+2024-04-09 12:44:43.387230,MAC_B2:0E:2F:FF,5,79,Frecuencia Cardiaca,1,1,84,Sensor_304,Urgencias,,1
+2023-12-15 12:44:43.387230,MAC_A6:D0:78:11,8,68,Presión Sanguínea,0,0,57,Sensor_305,Urgencias,,1
+2024-10-29 12:44:43.387230,MAC_9E:6C:C7:39,2,58,Frecuencia Cardiaca,0,1,38,Sensor_306,Urgencias,,0
+2024-10-27 12:44:43.387230,MAC_09:D0:08:00,8,30,Presión Sanguínea,0,1,92,Sensor_307,Sala C,,0
+2023-12-21 12:44:43.387230,MAC_BB:A1:3D:DD,4,3,Temperatura,0,1,15,Sensor_308,Sala C,En pruebas,0
+2024-10-10 12:44:43.387230,MAC_94:3B:7B:A5,8,71,Presión Sanguínea,1,1,65,Sensor_309,Urgencias,,1
+2024-08-14 12:44:43.387230,MAC_79:8E:32:18,10,59,Presión Sanguínea,0,0,54,Sensor_310,Sala C,,0
+2024-04-14 12:44:43.387230,MAC_FC:46:A7:78,2,2,Presión Sanguínea,0,0,55,Sensor_311,Sala A,En pruebas,0
+2024-05-27 12:44:43.387230,MAC_04:3A:57:FB,8,88,Presión Sanguínea,1,0,27,Sensor_312,Urgencias,,1
+2024-08-15 12:44:43.387230,MAC_8A:90:02:C9,6,14,Oxígeno,1,0,37,Sensor_313,Urgencias,En pruebas,0
+2024-09-30 12:44:43.387230,MAC_C1:25:C6:08,3,7,Temperatura,1,0,64,Sensor_314,Sala C,En pruebas,0
+2024-03-15 12:44:43.387230,MAC_73:80:AC:1F,5,45,Frecuencia Cardiaca,0,1,32,Sensor_315,Sala B,En pruebas,0
+2024-07-16 12:44:43.387230,MAC_CE:FA:87:9B,10,62,Presión Sanguínea,0,0,11,Sensor_316,Urgencias,,0
+2024-09-28 12:44:43.387230,MAC_B8:3F:7E:94,4,3,Temperatura,0,1,23,Sensor_317,Sala A,En pruebas,1
+2024-01-14 12:44:43.387230,MAC_30:A4:AB:56,4,33,Presión Sanguínea,1,1,22,Sensor_318,Urgencias,En pruebas,1
+2024-08-15 12:44:43.387230,MAC_8A:15:CC:89,4,39,Presión Sanguínea,0,0,72,Sensor_319,Sala A,En pruebas,0
+2024-01-22 12:44:43.387230,MAC_BD:D8:00:39,1,74,Temperatura,0,1,53,Sensor_320,Urgencias,,1
+2024-06-07 12:44:43.387230,MAC_19:A3:CF:0A,6,32,Frecuencia Cardiaca,0,1,69,Sensor_321,Sala B,En pruebas,1
+2024-09-30 12:44:43.387230,MAC_D3:D1:03:88,3,5,Oxígeno,0,1,31,Sensor_322,Sala B,En pruebas,0
+2023-11-20 12:44:43.387230,MAC_77:2A:6A:06,10,13,Temperatura,1,1,55,Sensor_323,Sala C,En pruebas,1
+2024-06-30 12:44:43.387230,MAC_DE:8A:1E:0C,3,77,Temperatura,0,1,64,Sensor_324,Sala A,En pruebas,0
+2024-08-30 12:44:43.387230,MAC_C0:45:B2:E6,4,11,Oxígeno,0,1,97,Sensor_325,Sala A,,0
+2024-03-03 12:44:43.387230,MAC_CE:6F:D0:F4,5,52,Temperatura,0,0,14,Sensor_326,Sala A,,0
+2024-07-20 12:44:43.387230,MAC_EE:97:0E:73,10,69,Oxígeno,0,0,59,Sensor_327,Urgencias,,0
+2024-01-18 12:44:43.387230,MAC_F6:AD:C5:D3,6,76,Presión Sanguínea,1,0,67,Sensor_328,Sala A,En pruebas,0
+2024-06-02 12:44:43.387230,MAC_24:47:1D:70,4,58,Presión Sanguínea,0,0,62,Sensor_329,Sala A,En pruebas,0
+2024-05-09 12:44:43.387230,MAC_8A:93:AB:75,3,18,Presión Sanguínea,0,0,31,Sensor_330,Sala B,,0
+2024-04-17 12:44:43.387230,MAC_48:10:45:24,4,23,Frecuencia Cardiaca,1,1,85,Sensor_331,Sala C,,0
+2024-02-07 12:44:43.387230,MAC_2A:C3:34:8F,3,28,Oxígeno,1,1,63,Sensor_332,Sala B,,1
+2024-05-05 12:44:43.387230,MAC_B8:12:31:E1,7,58,Presión Sanguínea,1,0,48,Sensor_333,Sala B,,0
+2024-03-11 12:44:43.387230,MAC_2E:B4:F7:93,2,67,Presión Sanguínea,0,1,27,Sensor_334,Sala B,En pruebas,0
+2024-01-15 12:44:43.387230,MAC_1B:4F:D5:D6,7,97,Presión Sanguínea,1,1,100,Sensor_335,Urgencias,,0
+2024-04-20 12:44:43.387230,MAC_09:19:0F:8C,9,71,Temperatura,0,0,96,Sensor_336,Sala A,En pruebas,0
+2024-07-15 12:44:43.387230,MAC_4D:AC:59:08,4,90,Presión Sanguínea,0,0,53,Sensor_337,Sala A,,0
+2024-04-29 12:44:43.387230,MAC_88:BE:6E:CC,2,60,Temperatura,0,1,28,Sensor_338,Sala B,En pruebas,0
+2023-12-12 12:44:43.387230,MAC_62:2A:67:E8,6,12,Temperatura,1,0,78,Sensor_339,Sala B,,1
+2024-09-10 12:44:43.387230,MAC_B2:AD:2F:1C,3,48,Oxígeno,0,0,88,Sensor_340,Sala A,En pruebas,0
+2023-12-01 12:44:43.387230,MAC_19:13:CF:C0,10,19,Oxígeno,1,0,79,Sensor_341,Urgencias,En pruebas,1
+2023-12-01 12:44:43.387230,MAC_09:BF:37:97,6,53,Presión Sanguínea,1,0,21,Sensor_342,Urgencias,,1
+2024-08-02 12:44:43.387230,MAC_60:E2:7C:32,5,42,Temperatura,0,0,39,Sensor_343,Sala C,,1
+2024-10-09 12:44:43.387230,MAC_D3:CB:5A:CA,7,25,Temperatura,0,1,51,Sensor_344,Sala B,En pruebas,1
+2024-07-02 12:44:43.387230,MAC_A6:2E:A0:4C,4,78,Frecuencia Cardiaca,1,1,15,Sensor_345,Urgencias,,0
+2023-12-26 12:44:43.387230,MAC_AC:E6:63:94,10,47,Frecuencia Cardiaca,1,0,69,Sensor_346,Sala C,En pruebas,0
+2024-05-12 12:44:43.387230,MAC_6D:C0:80:6A,10,12,Presión Sanguínea,0,0,78,Sensor_347,Sala C,,0
+2024-10-28 12:44:43.387230,MAC_8C:18:1B:8B,10,54,Oxígeno,1,0,53,Sensor_348,Urgencias,,0
+2024-05-11 12:44:43.387230,MAC_94:C7:9D:EA,1,77,Temperatura,0,0,90,Sensor_349,Urgencias,,0
+2024-05-31 12:44:43.387230,MAC_3A:84:39:EA,5,70,Oxígeno,1,0,78,Sensor_350,Sala A,,0
+2024-05-11 12:44:43.387230,MAC_BF:A9:E0:22,9,92,Presión Sanguínea,0,0,46,Sensor_351,Sala B,,1
+2024-03-04 12:44:43.387230,MAC_1C:9F:89:55,4,79,Oxígeno,0,1,49,Sensor_352,Sala A,En pruebas,1
+2024-01-04 12:44:43.387230,MAC_F5:60:18:4D,4,26,Frecuencia Cardiaca,1,1,97,Sensor_353,Sala B,,1
+2024-03-24 12:44:43.387230,MAC_F8:AA:75:2D,10,98,Temperatura,1,1,84,Sensor_354,Sala B,,0
+2024-04-30 12:44:43.387230,MAC_B7:0C:7E:80,5,69,Presión Sanguínea,1,0,27,Sensor_355,Sala C,,0
+2024-07-25 12:44:43.387230,MAC_CE:E0:5D:B3,10,6,Oxígeno,0,1,64,Sensor_356,Sala B,,1
+2024-02-23 12:44:43.387230,MAC_6F:C7:80:6F,7,45,Temperatura,1,1,63,Sensor_357,Sala B,,0
+2024-01-25 12:44:43.387230,MAC_17:E5:59:C5,2,27,Oxígeno,0,1,24,Sensor_358,Sala C,,0
+2024-05-03 12:44:43.387230,MAC_F0:7A:3B:F7,2,76,Frecuencia Cardiaca,1,1,89,Sensor_359,Urgencias,En pruebas,0
+2024-09-30 12:44:43.387230,MAC_74:61:36:3F,7,84,Frecuencia Cardiaca,1,0,52,Sensor_360,Sala B,,1
+2024-06-13 12:44:43.387230,MAC_10:03:04:60,3,73,Temperatura,0,1,54,Sensor_361,Sala A,,0
+2023-12-15 12:44:43.387230,MAC_4F:E0:0A:7E,1,76,Frecuencia Cardiaca,1,1,79,Sensor_362,Sala B,,1
+2024-08-29 12:44:43.387230,MAC_59:1D:81:06,7,66,Oxígeno,1,1,60,Sensor_363,Sala A,En pruebas,0
+2024-01-19 12:44:43.387230,MAC_51:D7:0D:8A,5,43,Temperatura,0,0,35,Sensor_364,Sala C,,1
+2024-10-14 12:44:43.387230,MAC_69:B9:5C:17,10,58,Oxígeno,0,1,93,Sensor_365,Sala C,En pruebas,1
+2024-02-21 12:44:43.387230,MAC_24:84:21:A1,4,42,Frecuencia Cardiaca,1,1,19,Sensor_366,Urgencias,En pruebas,1
+2024-03-28 12:44:43.387230,MAC_10:08:82:58,5,84,Oxígeno,1,1,31,Sensor_367,Urgencias,,1
+2024-08-11 12:44:43.387230,MAC_61:82:12:3B,3,38,Frecuencia Cardiaca,1,0,77,Sensor_368,Sala A,,0
+2024-03-02 12:44:43.387230,MAC_EA:6A:CD:AD,5,72,Presión Sanguínea,0,0,83,Sensor_369,Urgencias,En pruebas,0
+2024-07-23 12:44:43.387230,MAC_FD:F1:2D:DE,7,29,Temperatura,1,0,62,Sensor_370,Sala B,En pruebas,0
+2024-05-24 12:44:43.387230,MAC_1B:7D:30:21,10,59,Presión Sanguínea,1,1,93,Sensor_371,Urgencias,En pruebas,1
+2024-02-29 12:44:43.387230,MAC_35:56:98:E6,3,64,Oxígeno,0,1,11,Sensor_372,Sala C,En pruebas,0
+2024-07-19 12:44:43.387230,MAC_4C:80:5D:20,10,13,Oxígeno,1,1,51,Sensor_373,Sala C,,0
+2024-09-27 12:44:43.387230,MAC_85:4B:7F:12,5,75,Presión Sanguínea,0,1,78,Sensor_374,Urgencias,En pruebas,1
+2024-09-05 12:44:43.387230,MAC_8D:6E:CC:FA,5,2,Frecuencia Cardiaca,0,1,38,Sensor_375,Sala A,,1
+2024-01-28 12:44:43.387230,MAC_0F:52:21:C9,8,80,Frecuencia Cardiaca,0,1,29,Sensor_376,Sala B,,0
+2023-11-18 12:44:43.387230,MAC_48:20:AB:3E,6,20,Presión Sanguínea,0,1,29,Sensor_377,Sala C,En pruebas,0
+2024-03-14 12:44:43.387230,MAC_86:4A:D9:38,8,72,Frecuencia Cardiaca,0,1,17,Sensor_378,Urgencias,En pruebas,0
+2024-07-09 12:44:43.387230,MAC_D2:9C:5B:7D,10,39,Temperatura,0,0,78,Sensor_379,Sala B,En pruebas,0
+2024-03-03 12:44:43.387230,MAC_ED:EF:F4:36,5,88,Presión Sanguínea,1,1,86,Sensor_380,Urgencias,,0
+2024-08-02 12:44:43.387230,MAC_CA:DF:12:A6,1,37,Presión Sanguínea,1,0,34,Sensor_381,Urgencias,En pruebas,0
+2024-05-19 12:44:43.387230,MAC_A0:F0:B5:A3,1,33,Frecuencia Cardiaca,1,0,80,Sensor_382,Sala A,,1
+2023-11-09 12:44:43.387230,MAC_8A:4B:8F:AA,10,81,Temperatura,0,1,40,Sensor_383,Sala B,En pruebas,1
+2024-09-29 12:44:43.387230,MAC_E7:67:92:81,9,94,Frecuencia Cardiaca,1,0,0,Sensor_384,Urgencias,En pruebas,1
+2024-06-26 12:44:43.387230,MAC_A4:07:86:21,4,18,Temperatura,1,0,59,Sensor_385,Sala B,,1
+2024-01-06 12:44:43.387230,MAC_0A:73:4B:57,8,51,Oxígeno,1,0,73,Sensor_386,Sala C,En pruebas,1
+2024-09-13 12:44:43.387230,MAC_81:A0:31:C8,9,12,Oxígeno,1,1,36,Sensor_387,Sala B,En pruebas,0
+2024-08-29 12:44:43.387230,MAC_F0:8C:7E:5C,1,20,Frecuencia Cardiaca,1,1,14,Sensor_388,Sala C,En pruebas,0
+2024-05-06 12:44:43.387230,MAC_3F:1B:48:94,3,84,Presión Sanguínea,0,1,25,Sensor_389,Sala B,En pruebas,1
+2023-12-24 12:44:43.387230,MAC_BA:1E:D8:3C,7,49,Frecuencia Cardiaca,1,1,43,Sensor_390,Sala C,,0
+2024-02-09 12:44:43.387230,MAC_E0:74:33:12,3,46,Oxígeno,1,0,88,Sensor_391,Sala B,En pruebas,1
+2023-11-12 12:44:43.387230,MAC_E5:92:2A:92,1,47,Frecuencia Cardiaca,1,0,48,Sensor_392,Sala B,,0
+2024-09-02 12:44:43.387230,MAC_73:DC:33:45,9,91,Oxígeno,1,0,88,Sensor_393,Sala B,,0
+2024-02-02 12:44:43.387230,MAC_EC:19:B4:F7,3,21,Presión Sanguínea,1,0,21,Sensor_394,Urgencias,En pruebas,1
+2023-12-04 12:44:43.387230,MAC_8E:CD:D5:26,3,10,Frecuencia Cardiaca,1,0,67,Sensor_395,Sala A,En pruebas,1
+2024-08-02 12:44:43.387230,MAC_51:6D:E9:BD,7,42,Frecuencia Cardiaca,0,0,92,Sensor_396,Sala A,En pruebas,1
+2024-07-05 12:44:43.387230,MAC_12:3D:A8:56,7,51,Temperatura,1,0,74,Sensor_397,Sala A,,1
+2024-06-23 12:44:43.387230,MAC_96:CC:25:AF,3,38,Presión Sanguínea,1,0,25,Sensor_398,Sala A,En pruebas,0
+2024-04-10 12:44:43.387230,MAC_C0:04:55:97,6,50,Temperatura,0,0,61,Sensor_399,Sala B,,1
+2024-05-24 12:44:43.387230,MAC_15:E1:65:41,2,86,Frecuencia Cardiaca,0,0,7,Sensor_400,Sala B,En pruebas,1
+2023-12-04 12:44:43.387230,MAC_16:52:B4:4C,1,48,Oxígeno,0,0,18,Sensor_401,Sala C,En pruebas,1
+2024-07-28 12:44:43.387230,MAC_7C:E8:1A:A2,9,40,Presión Sanguínea,1,0,12,Sensor_402,Sala C,En pruebas,0
+2024-07-06 12:44:43.387230,MAC_62:A2:1D:F9,5,30,Oxígeno,1,1,48,Sensor_403,Sala B,,1
+2024-07-17 12:44:43.387230,MAC_11:D4:2C:40,2,44,Temperatura,0,1,59,Sensor_404,Sala B,,1
+2024-02-17 12:44:43.387230,MAC_02:F5:31:24,10,73,Presión Sanguínea,0,0,70,Sensor_405,Sala B,,1
+2024-01-15 12:44:43.387230,MAC_1A:8D:B2:B0,9,14,Presión Sanguínea,0,0,57,Sensor_406,Sala B,En pruebas,0
+2024-01-05 12:44:43.387230,MAC_E2:FC:89:ED,5,20,Temperatura,0,0,99,Sensor_407,Sala B,En pruebas,0
+2024-08-06 12:44:43.387230,MAC_81:42:3B:88,10,49,Presión Sanguínea,0,0,47,Sensor_408,Urgencias,,1
+2024-03-13 12:44:43.387230,MAC_6C:1A:69:50,5,2,Frecuencia Cardiaca,1,0,8,Sensor_409,Sala C,En pruebas,0
+2024-10-22 12:44:43.387230,MAC_0D:93:09:F7,5,29,Oxígeno,0,1,28,Sensor_410,Sala C,En pruebas,0
+2024-06-13 12:44:43.387230,MAC_C1:A0:E3:98,6,48,Oxígeno,0,0,68,Sensor_411,Urgencias,En pruebas,0
+2024-06-28 12:44:43.387230,MAC_09:AB:D3:44,10,60,Frecuencia Cardiaca,0,0,7,Sensor_412,Sala A,En pruebas,0
+2024-03-05 12:44:43.387230,MAC_04:24:B8:3E,6,34,Temperatura,1,1,30,Sensor_413,Sala B,,0
+2024-10-04 12:44:43.387230,MAC_B4:7E:EF:8A,2,41,Presión Sanguínea,0,0,61,Sensor_414,Sala C,,0
+2024-10-20 12:44:43.387230,MAC_D5:32:6D:32,3,71,Oxígeno,0,1,40,Sensor_415,Urgencias,,0
+2024-08-03 12:44:43.387230,MAC_F7:40:45:8D,10,12,Temperatura,0,0,14,Sensor_416,Sala A,,0
+2024-05-31 12:44:43.387230,MAC_DD:4B:0A:FD,1,94,Presión Sanguínea,1,1,17,Sensor_417,Sala A,En pruebas,0
+2024-08-15 12:44:43.387230,MAC_53:FF:D1:DD,7,72,Presión Sanguínea,1,1,9,Sensor_418,Sala A,En pruebas,0
+2024-10-15 12:44:43.387230,MAC_A3:91:8F:18,1,55,Presión Sanguínea,1,0,43,Sensor_419,Sala C,En pruebas,0
+2024-05-31 12:44:43.387230,MAC_58:83:BC:29,8,77,Presión Sanguínea,1,1,38,Sensor_420,Sala B,En pruebas,1
+2024-02-06 12:44:43.387230,MAC_4A:1E:F9:45,3,1,Oxígeno,0,0,76,Sensor_421,Sala A,En pruebas,1
+2024-01-15 12:44:43.387230,MAC_3B:6A:EA:82,2,27,Oxígeno,1,1,75,Sensor_422,Sala C,,1
+2024-09-13 12:44:43.387230,MAC_29:CD:11:02,1,57,Temperatura,0,0,29,Sensor_423,Urgencias,En pruebas,0
+2023-11-04 12:44:43.387230,MAC_0C:D7:81:12,5,53,Frecuencia Cardiaca,0,0,87,Sensor_424,Sala C,En pruebas,0
+2024-08-17 12:44:43.387230,MAC_21:42:66:32,9,24,Temperatura,1,1,55,Sensor_425,Sala C,,0
+2023-12-17 12:44:43.387230,MAC_2C:4C:28:7C,7,54,Presión Sanguínea,0,1,97,Sensor_426,Sala A,,0
+2023-11-30 12:44:43.387230,MAC_5F:8E:1D:49,7,22,Temperatura,1,1,39,Sensor_427,Urgencias,En pruebas,1
+2024-03-01 12:44:43.387230,MAC_A4:26:3A:A8,6,19,Oxígeno,1,0,85,Sensor_428,Sala C,,1
+2024-04-12 12:44:43.387230,MAC_59:DD:69:5A,7,12,Presión Sanguínea,1,1,64,Sensor_429,Sala B,,1
+2023-12-08 12:44:43.387230,MAC_6C:E7:4B:B3,1,40,Oxígeno,0,1,60,Sensor_430,Sala A,En pruebas,1
+2024-05-30 12:44:43.387230,MAC_4D:BA:A9:AD,3,1,Oxígeno,1,1,19,Sensor_431,Sala B,En pruebas,1
+2024-10-03 12:44:43.387230,MAC_55:12:F3:0B,3,25,Frecuencia Cardiaca,0,1,79,Sensor_432,Sala C,,0
+2024-06-23 12:44:43.387230,MAC_B3:B9:BD:ED,5,21,Frecuencia Cardiaca,1,1,1,Sensor_433,Sala A,En pruebas,1
+2023-10-30 12:44:43.387230,MAC_44:5A:47:75,9,7,Presión Sanguínea,0,0,40,Sensor_434,Sala B,,1
+2024-01-13 12:44:43.387230,MAC_7E:14:B0:AA,9,15,Temperatura,1,0,21,Sensor_435,Sala B,,1
+2023-12-18 12:44:43.387230,MAC_DB:DE:84:48,5,73,Presión Sanguínea,1,1,95,Sensor_436,Sala C,,1
+2023-11-14 12:44:43.387230,MAC_5B:0C:C0:EA,4,37,Presión Sanguínea,0,1,85,Sensor_437,Sala C,,0
+2024-03-06 12:44:43.387230,MAC_79:04:04:F0,4,58,Frecuencia Cardiaca,1,0,13,Sensor_438,Urgencias,,0
+2024-04-13 12:44:43.387230,MAC_49:43:77:09,2,78,Frecuencia Cardiaca,1,0,62,Sensor_439,Urgencias,En pruebas,0
+2024-05-01 12:44:43.387230,MAC_E9:2B:73:D4,5,4,Oxígeno,0,0,53,Sensor_440,Sala B,,0
+2023-11-06 12:44:43.387230,MAC_4B:CB:A9:A0,4,30,Presión Sanguínea,1,0,30,Sensor_441,Sala C,,0
+2024-08-31 12:44:43.387230,MAC_64:26:1B:46,1,91,Presión Sanguínea,1,0,87,Sensor_442,Urgencias,,1
+2024-04-01 12:44:43.387230,MAC_CF:DB:F4:4B,1,96,Frecuencia Cardiaca,1,0,45,Sensor_443,Sala A,,1
+2024-01-13 12:44:43.387230,MAC_B3:22:F0:21,1,50,Temperatura,1,0,99,Sensor_444,Sala A,,0
+2024-04-05 12:44:43.387230,MAC_67:25:21:5B,5,53,Frecuencia Cardiaca,1,0,71,Sensor_445,Sala C,En pruebas,1
+2024-03-27 12:44:43.387230,MAC_1D:18:38:35,1,41,Presión Sanguínea,1,1,28,Sensor_446,Urgencias,En pruebas,1
+2024-10-09 12:44:43.387230,MAC_78:CF:0E:D2,10,50,Temperatura,1,0,71,Sensor_447,Urgencias,,1
+2024-02-27 12:44:43.387230,MAC_CE:E4:CC:B2,9,31,Presión Sanguínea,0,0,98,Sensor_448,Sala B,,0
+2024-04-01 12:44:43.387230,MAC_6C:CA:CD:A0,1,73,Frecuencia Cardiaca,1,0,15,Sensor_449,Sala A,En pruebas,0
+2024-01-15 12:44:43.387230,MAC_D4:38:C2:8E,10,14,Oxígeno,1,0,91,Sensor_450,Sala B,En pruebas,1
+2024-08-31 12:44:43.387230,MAC_1B:C1:86:F0,1,29,Frecuencia Cardiaca,0,0,10,Sensor_451,Sala C,En pruebas,1
+2024-08-05 12:44:43.387230,MAC_5E:22:68:58,4,51,Presión Sanguínea,1,1,60,Sensor_452,Sala C,En pruebas,1
+2024-05-25 12:44:43.387230,MAC_1E:16:F0:3F,4,70,Presión Sanguínea,0,1,1,Sensor_453,Urgencias,En pruebas,0
+2024-02-16 12:44:43.387230,MAC_38:AB:77:C3,6,14,Presión Sanguínea,1,1,61,Sensor_454,Sala C,En pruebas,0
+2024-10-07 12:44:43.387230,MAC_2C:0A:6B:61,1,78,Temperatura,1,1,41,Sensor_455,Urgencias,,0
+2024-05-17 12:44:43.387230,MAC_CC:AC:89:62,2,15,Presión Sanguínea,1,0,100,Sensor_456,Sala B,En pruebas,0
+2024-05-25 12:44:43.387230,MAC_A9:6B:2D:5A,8,73,Frecuencia Cardiaca,1,1,91,Sensor_457,Sala A,,1
+2024-08-11 12:44:43.387230,MAC_73:67:36:6F,4,80,Presión Sanguínea,1,0,47,Sensor_458,Urgencias,En pruebas,0
+2024-02-12 12:44:43.387230,MAC_61:E0:DC:1F,2,16,Oxígeno,0,1,91,Sensor_459,Sala A,En pruebas,1
+2024-01-13 12:44:43.387230,MAC_43:BC:89:80,3,53,Presión Sanguínea,1,1,38,Sensor_460,Sala A,,0
+2024-10-24 12:44:43.387230,MAC_4E:4E:4F:2D,4,60,Presión Sanguínea,0,0,63,Sensor_461,Sala B,En pruebas,1
+2024-01-24 12:44:43.387230,MAC_EA:B6:D6:89,1,19,Oxígeno,1,0,85,Sensor_462,Sala C,En pruebas,1
+2024-03-18 12:44:43.387230,MAC_1A:EA:3A:BD,6,99,Presión Sanguínea,0,1,69,Sensor_463,Sala C,En pruebas,0
+2024-09-30 12:44:43.387230,MAC_95:CE:D2:AB,2,93,Frecuencia Cardiaca,1,1,90,Sensor_464,Sala C,En pruebas,0
+2024-02-01 12:44:43.387230,MAC_3F:F8:03:93,6,46,Presión Sanguínea,0,1,100,Sensor_465,Sala C,En pruebas,1
+2023-11-14 12:44:43.387230,MAC_C4:50:84:63,4,6,Oxígeno,1,1,5,Sensor_466,Sala A,,0
+2024-08-12 12:44:43.387230,MAC_4D:10:DB:B2,10,21,Oxígeno,1,0,37,Sensor_467,Sala C,En pruebas,1
+2024-07-04 12:44:43.387230,MAC_B2:41:5D:89,6,66,Frecuencia Cardiaca,1,1,80,Sensor_468,Urgencias,,0
+2024-06-27 12:44:43.387230,MAC_A9:07:21:D9,2,93,Presión Sanguínea,0,0,62,Sensor_469,Urgencias,En pruebas,0
+2024-05-10 12:44:43.387230,MAC_59:2D:44:37,1,71,Oxígeno,0,1,8,Sensor_470,Sala C,,0
+2023-11-22 12:44:43.387230,MAC_AA:03:E2:6A,1,20,Temperatura,0,0,63,Sensor_471,Urgencias,,1
+2024-05-17 12:44:43.387230,MAC_ED:64:81:ED,2,44,Oxígeno,1,1,82,Sensor_472,Sala C,,1
+2024-09-23 12:44:43.387230,MAC_23:D3:35:E2,7,63,Frecuencia Cardiaca,0,0,74,Sensor_473,Sala A,En pruebas,1
+2024-04-02 12:44:43.387230,MAC_8E:36:E7:8F,2,61,Oxígeno,0,1,68,Sensor_474,Sala A,,1
+2024-07-23 12:44:43.387230,MAC_29:39:9B:47,5,41,Frecuencia Cardiaca,1,1,18,Sensor_475,Sala B,,1
+2024-03-18 12:44:43.387230,MAC_B3:8B:21:DA,2,14,Oxígeno,0,0,99,Sensor_476,Sala C,En pruebas,1
+2024-09-04 12:44:43.387230,MAC_23:4D:3F:83,7,86,Temperatura,1,0,57,Sensor_477,Sala B,En pruebas,0
+2024-02-29 12:44:43.387230,MAC_56:ED:AF:9C,9,30,Oxígeno,0,1,1,Sensor_478,Sala A,,1
+2024-09-03 12:44:43.387230,MAC_EA:1C:E5:1F,3,20,Oxígeno,1,0,49,Sensor_479,Sala A,En pruebas,0
+2023-11-10 12:44:43.387230,MAC_72:7C:BB:F1,7,60,Temperatura,0,0,34,Sensor_480,Sala B,,1
+2024-05-17 12:44:43.387230,MAC_2A:DF:20:74,6,100,Oxígeno,0,0,40,Sensor_481,Sala B,,1
+2024-02-16 12:44:43.387230,MAC_F3:13:1F:79,9,16,Oxígeno,0,1,66,Sensor_482,Urgencias,,0
+2024-05-17 12:44:43.387230,MAC_74:FB:50:E3,6,24,Frecuencia Cardiaca,1,0,61,Sensor_483,Sala A,En pruebas,0
+2024-06-27 12:44:43.387230,MAC_A9:B6:DF:44,2,13,Oxígeno,0,0,67,Sensor_484,Sala C,,1
+2024-08-23 12:44:43.387230,MAC_0D:86:8C:77,4,39,Presión Sanguínea,1,1,56,Sensor_485,Urgencias,En pruebas,1
+2024-07-14 12:44:43.387230,MAC_94:C1:3A:A7,8,43,Oxígeno,0,0,76,Sensor_486,Sala A,,0
+2024-03-15 12:44:43.387230,MAC_88:7B:15:1E,8,40,Presión Sanguínea,1,1,96,Sensor_487,Sala C,En pruebas,1
+2024-07-26 12:44:43.387230,MAC_D4:8F:1A:B4,6,75,Frecuencia Cardiaca,1,0,2,Sensor_488,Sala C,,0
+2024-04-25 12:44:43.387230,MAC_A7:14:4E:03,8,97,Frecuencia Cardiaca,1,0,36,Sensor_489,Sala B,,0
+2023-11-25 12:44:43.387230,MAC_BB:3C:2F:6C,8,46,Oxígeno,0,1,42,Sensor_490,Sala A,En pruebas,0
+2024-04-13 12:44:43.387230,MAC_F1:A9:E0:51,8,27,Presión Sanguínea,0,1,67,Sensor_491,Sala C,En pruebas,0
+2024-07-31 12:44:43.387230,MAC_99:43:0A:DD,3,54,Frecuencia Cardiaca,1,0,32,Sensor_492,Urgencias,En pruebas,1
+2024-05-16 12:44:43.387230,MAC_41:4C:9A:76,3,9,Temperatura,1,0,31,Sensor_493,Sala A,,1
+2023-12-01 12:44:43.387230,MAC_E5:6F:8B:5B,2,100,Presión Sanguínea,0,1,68,Sensor_494,Sala C,,1
+2024-08-05 12:44:43.387230,MAC_82:D6:AB:BA,3,47,Oxígeno,0,0,59,Sensor_495,Sala A,En pruebas,1
+2023-11-05 12:44:43.387230,MAC_62:34:39:1D,10,27,Temperatura,1,0,64,Sensor_496,Sala C,,1
+2024-09-03 12:44:43.387230,MAC_E5:79:65:E8,9,21,Frecuencia Cardiaca,1,0,21,Sensor_497,Sala A,En pruebas,1
+2023-12-06 12:44:43.387230,MAC_78:8D:ED:CE,5,93,Oxígeno,0,0,97,Sensor_498,Urgencias,En pruebas,1
+2024-04-13 12:44:43.387230,MAC_BC:AF:62:AB,8,82,Temperatura,0,1,27,Sensor_499,Urgencias,En pruebas,1
+2024-06-16 12:44:43.387230,MAC_CA:4F:68:AB,8,20,Oxígeno,0,0,46,Sensor_500,Sala A,,0
